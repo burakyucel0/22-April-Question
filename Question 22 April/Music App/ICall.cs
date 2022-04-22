@@ -8,6 +8,6 @@ namespace Question_22_April.Music_App
 {
     public interface ICall
     {
-        void Cal(Songs song);
+       public void Cal(Songs song);
     }
 }

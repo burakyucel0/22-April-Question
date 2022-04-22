@@ -1,0 +1,16 @@
+C:\Users\z004j86v\source\repos\Question 22 April\Question 22 April\bin\Debug\net5.0\Question 22 April.exe
+C:\Users\z004j86v\source\repos\Question 22 April\Question 22 April\bin\Debug\net5.0\Question 22 April.deps.json
+C:\Users\z004j86v\source\repos\Question 22 April\Question 22 April\bin\Debug\net5.0\Question 22 April.runtimeconfig.json
+C:\Users\z004j86v\source\repos\Question 22 April\Question 22 April\bin\Debug\net5.0\Question 22 April.runtimeconfig.dev.json
+C:\Users\z004j86v\source\repos\Question 22 April\Question 22 April\bin\Debug\net5.0\Question 22 April.dll
+C:\Users\z004j86v\source\repos\Question 22 April\Question 22 April\bin\Debug\net5.0\Question 22 April.pdb
+C:\Users\z004j86v\source\repos\Question 22 April\Question 22 April\obj\Debug\net5.0\Question 22 April.csproj.AssemblyReference.cache
+C:\Users\z004j86v\source\repos\Question 22 April\Question 22 April\obj\Debug\net5.0\Question 22 April.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004j86v\source\repos\Question 22 April\Question 22 April\obj\Debug\net5.0\Question 22 April.AssemblyInfoInputs.cache
+C:\Users\z004j86v\source\repos\Question 22 April\Question 22 April\obj\Debug\net5.0\Question 22 April.AssemblyInfo.cs
+C:\Users\z004j86v\source\repos\Question 22 April\Question 22 April\obj\Debug\net5.0\Question 22 April.csproj.CoreCompileInputs.cache
+C:\Users\z004j86v\source\repos\Question 22 April\Question 22 April\obj\Debug\net5.0\Question 22 April.dll
+C:\Users\z004j86v\source\repos\Question 22 April\Question 22 April\obj\Debug\net5.0\refint\Question 22 April.dll
+C:\Users\z004j86v\source\repos\Question 22 April\Question 22 April\obj\Debug\net5.0\Question 22 April.pdb
+C:\Users\z004j86v\source\repos\Question 22 April\Question 22 April\obj\Debug\net5.0\Question 22 April.genruntimeconfig.cache
+C:\Users\z004j86v\source\repos\Question 22 April\Question 22 April\obj\Debug\net5.0\ref\Question 22 April.dll

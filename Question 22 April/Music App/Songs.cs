@@ -8,12 +8,12 @@ namespace Question_22_April.Music_App
 {
     public class Songs : BaseModel, ICall, ISongEntity
     {
-        public string SongName { get; set; }
-        public DateTime Announcement { get; set; }
+        public string SongName { get; set; } = "";
+        public DateTime Announcement { get; set; } 
         public DateTime ReleaseDate { get => Announcement.AddDays(10); }
-        public double Time { get; set; }
-        public Artist artist { get; set; }
-        public DateTime LastPlayDate { get; set; }
+        public double Time { get; set; } =  0.0;
+        public Artist artist { get; set; } 
+        public DateTime LastPlayDate { get; set; } 
 
         public void Cal(Songs song)
         {
