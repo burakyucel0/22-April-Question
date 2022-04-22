@@ -6,12 +6,19 @@ using System.Threading.Tasks;
 
 namespace Question_22_April.Music_App
 {
-    public class Songs : BaseModel
+    public class Songs : BaseModel, ICall, IParcaEntity
     {
         public string Name { get; set; }
         public DateTime Announcement { get; set; }
         public DateTime ReleaseDate { get => Announcement.AddDays(10); }
         public double Time { get; set; }
         public Artist artist { get; set; }
+        public DateTime LastPlayDate { get; set; }
+
+        public void Cal(Songs song)
+        {
+         
+        }
+
     }
 }
