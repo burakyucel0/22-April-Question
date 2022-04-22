@@ -15,6 +15,11 @@ namespace Question_22_April.Music_App
         public string Address { get; set; }
         public string Password { get => CreateMD5(Password); set => Password = value; }
 
+        public User (string name, string surname)
+        {
+           this.UserName = surname;
+        }
+
 
         public static string CreateMD5(string input)
         {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Question_22_April.Music_App
 {
-    public interface IParcaEntity
+    public interface ISongEntity
     {
         public DateTime LastPlayDate { get; set; }
 

@@ -12,5 +12,10 @@ namespace Question_22_April.Music_App
         public string ArtistSurname { get; set; }
         public string Country { get; set; }
         public DateTime Birthday { get; set; }
+
+        public Artist (string name, string surname)
+        {
+
+        }
     }
 }

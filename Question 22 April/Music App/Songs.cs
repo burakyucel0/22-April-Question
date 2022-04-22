@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Question_22_April.Music_App
 {
-    public class Songs : BaseModel, ICall, IParcaEntity
+    public class Songs : BaseModel, ICall, ISongEntity
     {
-        public string Name { get; set; }
+        public string SongName { get; set; }
         public DateTime Announcement { get; set; }
         public DateTime ReleaseDate { get => Announcement.AddDays(10); }
         public double Time { get; set; }
@@ -20,5 +20,9 @@ namespace Question_22_April.Music_App
          
         }
 
+        public Songs (string name)
+        {
+           this.SongName = name;
+        }
     }
 }

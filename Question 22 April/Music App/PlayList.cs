@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Question_22_April.Music_App
 {
-    public class PlayList : BaseModel, IParcaEntity
+    public class PlayList : BaseModel, ISongEntity
     {
         public List<Songs> PlayListSongs { get; set; }
         public User User { get; set; }
