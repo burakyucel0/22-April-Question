@@ -32,11 +32,11 @@ namespace Question_22_April
             var Album = new Album();
             Album.AlbumName = "Sea Shanty Medley";
             Album.AlbumCover = "Cover";
-         
-          
 
 
-            //Console.WriteLine(Album.SongsCount);
+
+
+
 
             Console.Read();
         }
